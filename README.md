@@ -1,6 +1,6 @@
 ## Hi, I'm Amsavarthan! 👋
 
-I am a software developer from **India** 💙 who loves to create technology and contribute those to the society 🌱. Checkout my [website](https://lvamsavarthan.github.io) for more info.
+I am a software developer from **India** 💙 who loves to create technology and contribute those to the society 🌱. Checkout my [website](https://amsavarthan.github.io) for more info.
 
 <hr>
 <p align="center">
