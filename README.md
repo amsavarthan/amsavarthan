@@ -2,8 +2,6 @@
 
 I am a software developer from **India** 💙 who loves to create technology and contribute those to the society 🌱. Checkout my [website](https://lvamsavarthan.github.io) for more info.
 
-![Amsavarthan's github stats](https://github-readme-stats.vercel.app/api?username=lvamsavarthan&hide=["contribs","prs"])
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
