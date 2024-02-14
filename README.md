@@ -8,7 +8,7 @@
 ### Checkout my recent article on Medium
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/0">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/0" alt="My Recent Article"> 
+<img src="https://medium.com/towardsdev/taking-screenshot-of-a-composable-composable-to-bitmap-4ca1db29bb51" alt="My Recent Article"> 
 </a>
 
 <hr>
