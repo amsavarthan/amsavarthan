@@ -1,23 +1,15 @@
-<h1 align="center">Hi! I'm Amsavarthan</h1>
-<h3 align="center">Your friendly neighborhood developer 👨‍💻💚</h3>
+# Hi! I'm Amsavarthan
+### Your friendly neighborhood Android developer 👨‍💻💚
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=amsavarthan&color=3ddc84" alt="amsavarthan" />
-</p>
+A seasoned Android developer with a [Google certification](https://www.credential.net/d50f15a1-dd13-4e9f-b2f9-9a9e0ec653d2). I started tinkering with Android when I was barely out of diapers (okay, maybe that's an exaggeration), and now I'm all grown up (mostly). I may not have a superhero cape, but I do have a hoodie and a trusty laptop that I use to build amazing apps.
 
-### Checkout my recent article on Medium
+![](https://komarev.com/ghpvc/?username=amsavarthan&abbreviated=true)
 
+### Checkout my recent articles on Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/0">
-<img src="https://medium.com/towardsdev/taking-screenshot-of-a-composable-composable-to-bitmap-4ca1db29bb51" alt="My Recent Article"> 
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/0" alt="My Recent Article"> 
 </a>
 
-<hr>
-<p align="center">
-<i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-<p align="center">
-<a href="https://www.linkedin.com/in/lvamsavarthan/" alt="Linkedin"><img src="https://github.com/amsavarthan/amsavarthan/blob/master/readme/linkedin.png"></a>
-<a href="https://twitter.com/lvamsavarthan" alt="Twitter"><img src="https://github.com/amsavarthan/amsavarthan/blob/master/readme/twitter.png"></a>
-<a href="https://www.instagram.com/lvamsavarthan" alt="Instagram"><img src="https://github.com/amsavarthan/amsavarthan/blob/master/readme/insta.png"></a>
-</p>
-</p>
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/1">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@amsavarthan/1" alt="My Second Recent Article"> 
+</a>
